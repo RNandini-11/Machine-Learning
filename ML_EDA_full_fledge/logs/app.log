@@ -1,0 +1,310 @@
+2026-08-05 16:40:13,328 - INFO - Model training started
+2026-08-05 16:40:13,652 - INFO - Processed datasets loaded successfully
+2026-08-05 16:40:13,658 - INFO - Logistic Regression training started
+2026-08-05 16:40:18,430 - INFO - Logistic Regression training completed
+2026-08-05 16:40:18,446 - INFO - Random Forest training started
+2026-08-05 16:40:21,241 - INFO - Random Forest training completed
+2026-08-05 16:40:21,313 - INFO - XGBoost training started
+2026-08-05 16:40:22,017 - INFO - XGBoost training completed
+2026-08-05 16:40:22,100 - INFO - Models saved successfully at models\v20260805_164022
+2026-08-05 16:40:22,100 - INFO - Model training completed
+2026-08-05 20:23:25,710 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:23:25,713 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:23:28,478 - WARNING -  * Debugger is active!
+2026-08-05 20:23:28,478 - WARNING -  * Debugger is active!
+2026-08-05 20:23:28,481 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:23:28,482 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:26:19,201 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:26:19,208 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:26:20,063 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:26:20,066 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:26:22,442 - WARNING -  * Debugger is active!
+2026-08-05 20:26:22,446 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:26:22,453 - WARNING -  * Debugger is active!
+2026-08-05 20:26:22,456 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:26:54,955 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:26:54,957 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:26:55,782 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:26:55,785 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:26:57,859 - WARNING -  * Debugger is active!
+2026-08-05 20:26:57,861 - WARNING -  * Debugger is active!
+2026-08-05 20:26:57,861 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:26:57,863 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:04,194 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\train.py', reloading
+2026-08-05 20:27:04,204 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\train.py', reloading
+2026-08-05 20:27:05,337 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:05,338 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:07,723 - WARNING -  * Debugger is active!
+2026-08-05 20:27:07,725 - WARNING -  * Debugger is active!
+2026-08-05 20:27:07,725 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:07,728 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:12,980 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\predict.py', reloading
+2026-08-05 20:27:12,997 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\predict.py', reloading
+2026-08-05 20:27:13,846 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:13,848 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:16,030 - WARNING -  * Debugger is active!
+2026-08-05 20:27:16,032 - WARNING -  * Debugger is active!
+2026-08-05 20:27:16,032 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:16,034 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:25,527 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\predict.py', reloading
+2026-08-05 20:27:25,553 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\predict.py', reloading
+2026-08-05 20:27:26,476 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:26,479 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:28,848 - WARNING -  * Debugger is active!
+2026-08-05 20:27:28,848 - WARNING -  * Debugger is active!
+2026-08-05 20:27:28,850 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:28,850 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:29,943 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\predict.py', reloading
+2026-08-05 20:27:29,948 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\predict.py', reloading
+2026-08-05 20:27:30,922 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:30,940 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:33,141 - WARNING -  * Debugger is active!
+2026-08-05 20:27:33,142 - WARNING -  * Debugger is active!
+2026-08-05 20:27:33,144 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:33,144 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:36,331 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\logger.py', reloading
+2026-08-05 20:27:36,341 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\logger.py', reloading
+2026-08-05 20:27:37,317 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:37,344 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:39,563 - WARNING -  * Debugger is active!
+2026-08-05 20:27:39,565 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:39,598 - WARNING -  * Debugger is active!
+2026-08-05 20:27:39,600 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:41,782 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\features.py', reloading
+2026-08-05 20:27:41,835 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\features.py', reloading
+2026-08-05 20:27:42,699 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:42,745 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:45,010 - WARNING -  * Debugger is active!
+2026-08-05 20:27:45,012 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:45,041 - WARNING -  * Debugger is active!
+2026-08-05 20:27:45,043 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:48,215 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\config.py', reloading
+2026-08-05 20:27:48,223 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\config.py', reloading
+2026-08-05 20:27:49,159 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:49,161 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:51,262 - WARNING -  * Debugger is active!
+2026-08-05 20:27:51,262 - WARNING -  * Debugger is active!
+2026-08-05 20:27:51,264 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:51,265 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:54,498 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:27:54,502 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:27:55,345 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:55,346 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:27:57,881 - WARNING -  * Debugger is active!
+2026-08-05 20:27:57,881 - WARNING -  * Debugger is active!
+2026-08-05 20:27:57,883 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:27:57,884 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:28:35,329 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\model_registry.py', reloading
+2026-08-05 20:28:35,342 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\model_registry.py', reloading
+2026-08-05 20:28:36,262 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:28:36,263 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:28:38,558 - WARNING -  * Debugger is active!
+2026-08-05 20:28:38,560 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:28:38,591 - WARNING -  * Debugger is active!
+2026-08-05 20:28:38,593 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:29:52,302 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\plots.py', reloading
+2026-08-05 20:29:53,277 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:29:53,298 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:29:55,291 - WARNING -  * Debugger is active!
+2026-08-05 20:29:55,293 - WARNING -  * Debugger is active!
+2026-08-05 20:29:55,294 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:29:55,295 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:33:10,800 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:33:10,812 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:33:11,580 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:33:11,581 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:33:14,304 - WARNING -  * Debugger is active!
+2026-08-05 20:33:14,309 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:33:14,335 - WARNING -  * Debugger is active!
+2026-08-05 20:33:14,339 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:33:43,538 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:33:43,544 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\modeling\\train.py', reloading
+2026-08-05 20:33:46,081 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:33:46,081 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_164022\random_forest.joblib
+2026-08-05 20:34:02,180 - WARNING -  * Debugger is active!
+2026-08-05 20:34:02,180 - WARNING -  * Debugger is active!
+2026-08-05 20:34:02,182 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:34:02,183 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:34:26,268 - INFO - Model training started
+2026-08-05 20:34:26,876 - INFO - Processed datasets loaded successfully
+2026-08-05 20:34:26,878 - INFO - Logistic Regression training started
+2026-08-05 20:34:33,336 - INFO - Logistic Regression training completed
+2026-08-05 20:34:33,387 - INFO - Random Forest training started
+2026-08-05 20:34:38,927 - INFO - Random Forest training completed
+2026-08-05 20:34:39,077 - INFO - XGBoost training started
+2026-08-05 20:34:40,477 - INFO - XGBoost training completed
+2026-08-05 20:34:40,648 - INFO - Models saved successfully at D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440
+2026-08-05 20:34:40,648 - INFO - Model training completed
+2026-08-05 20:34:55,794 - INFO - Batch prediction started using model: random_forest
+2026-08-05 20:34:55,804 - INFO - Loading model for prediction: random_forest
+2026-08-05 20:34:57,133 - INFO - Batch prediction completed successfully
+2026-08-05 20:35:16,156 - INFO - Generating reports for model version v20260805_203440
+2026-08-05 20:35:16,156 - INFO - Generating evaluation report for logistic_regression
+2026-08-05 20:35:18,010 - INFO - Generating evaluation report for random_forest
+2026-08-05 20:35:19,386 - INFO - Generating evaluation report for xgboost
+2026-08-05 20:40:23,039 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\tests\\test_modeling.py', reloading
+2026-08-05 20:40:23,600 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440\random_forest.joblib
+2026-08-05 20:40:25,002 - WARNING -  * Debugger is active!
+2026-08-05 20:40:25,003 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:40:28,105 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\tests\\test_modeling.py', reloading
+2026-08-05 20:40:28,677 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440\random_forest.joblib
+2026-08-05 20:40:29,937 - WARNING -  * Debugger is active!
+2026-08-05 20:40:29,939 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:41:52,060 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\tests\\test_modeling.py', reloading
+2026-08-05 20:41:52,576 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440\random_forest.joblib
+2026-08-05 20:41:53,881 - WARNING -  * Debugger is active!
+2026-08-05 20:41:53,883 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:42:44,227 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440\random_forest.joblib
+2026-08-05 20:42:45,794 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.108.226.54:5000
+2026-08-05 20:42:45,794 - INFO - [33mPress CTRL+C to quit[0m
+2026-08-05 20:42:45,795 - INFO -  * Restarting with stat
+2026-08-05 20:42:46,140 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_203440\random_forest.joblib
+2026-08-05 20:42:47,496 - WARNING -  * Debugger is active!
+2026-08-05 20:42:47,498 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:43:53,227 - INFO - Model training started
+2026-08-05 20:43:54,176 - INFO - Processed datasets loaded successfully
+2026-08-05 20:43:54,178 - INFO - Logistic Regression training started
+2026-08-05 20:44:01,803 - INFO - Logistic Regression training completed
+2026-08-05 20:44:01,827 - INFO - Random Forest training started
+2026-08-05 20:44:06,648 - INFO - Random Forest training completed
+2026-08-05 20:44:06,761 - INFO - XGBoost training started
+2026-08-05 20:44:08,106 - INFO - XGBoost training completed
+2026-08-05 20:44:08,267 - INFO - Models saved successfully at D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204408
+2026-08-05 20:44:08,267 - INFO - Model training completed
+2026-08-05 20:44:12,438 - INFO - Batch prediction started using model: random_forest
+2026-08-05 20:44:12,453 - INFO - Loading model for prediction: random_forest
+2026-08-05 20:44:13,844 - INFO - Batch prediction completed successfully
+2026-08-05 20:44:21,359 - INFO - Generating reports for model version v20260805_204408
+2026-08-05 20:44:21,360 - INFO - Generating evaluation report for logistic_regression
+2026-08-05 20:44:22,638 - INFO - Generating evaluation report for random_forest
+2026-08-05 20:44:24,480 - INFO - Generating evaluation report for xgboost
+2026-08-05 20:45:34,118 - INFO - Model training started
+2026-08-05 20:45:34,862 - INFO - Processed datasets loaded successfully
+2026-08-05 20:45:34,864 - INFO - Logistic Regression training started
+2026-08-05 20:45:42,575 - INFO - Logistic Regression training completed
+2026-08-05 20:45:42,602 - INFO - Random Forest training started
+2026-08-05 20:45:47,452 - INFO - Random Forest training completed
+2026-08-05 20:45:47,549 - INFO - XGBoost training started
+2026-08-05 20:45:48,979 - INFO - XGBoost training completed
+2026-08-05 20:45:49,140 - INFO - Models saved successfully at D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549
+2026-08-05 20:45:49,140 - INFO - Model training completed
+2026-08-05 20:45:55,965 - INFO - Batch prediction started using model: random_forest
+2026-08-05 20:45:55,976 - INFO - Loading model for prediction: random_forest
+2026-08-05 20:45:57,320 - INFO - Batch prediction completed successfully
+2026-08-05 20:46:08,193 - INFO - Generating reports for model version v20260805_204549
+2026-08-05 20:46:08,194 - INFO - Generating evaluation report for logistic_regression
+2026-08-05 20:46:09,216 - INFO - Generating evaluation report for random_forest
+2026-08-05 20:46:10,637 - INFO - Generating evaluation report for xgboost
+2026-08-05 20:46:32,925 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:46:34,279 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.108.226.54:5000
+2026-08-05 20:46:34,279 - INFO - [33mPress CTRL+C to quit[0m
+2026-08-05 20:46:34,280 - INFO -  * Restarting with stat
+2026-08-05 20:46:34,618 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:46:35,866 - WARNING -  * Debugger is active!
+2026-08-05 20:46:35,867 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:47:34,441 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:34] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:35,493 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:35] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:35,883 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:35] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:36,146 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:36] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:36,395 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:36] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:36,646 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:36] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:47:36,891 - INFO - 127.0.0.1 - - [05/Aug/2026 20:47:36] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:48:43,155 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:48:44,594 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.108.226.54:5000
+2026-08-05 20:48:44,594 - INFO - [33mPress CTRL+C to quit[0m
+2026-08-05 20:48:44,595 - INFO -  * Restarting with stat
+2026-08-05 20:48:44,945 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:48:46,175 - WARNING -  * Debugger is active!
+2026-08-05 20:48:46,176 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:49:08,973 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:49:10,747 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.108.226.54:5000
+2026-08-05 20:49:10,748 - INFO - [33mPress CTRL+C to quit[0m
+2026-08-05 20:49:10,749 - INFO -  * Restarting with stat
+2026-08-05 20:49:11,072 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:49:12,337 - WARNING -  * Debugger is active!
+2026-08-05 20:49:12,338 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:49:42,242 - INFO - 127.0.0.1 - - [05/Aug/2026 20:49:42] "[31m[1mGET /predict HTTP/1.1[0m" 405 -
+2026-08-05 20:50:46,589 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\test_api.py', reloading
+2026-08-05 20:50:46,899 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\test_api.py', reloading
+2026-08-05 20:50:47,140 - INFO -  * Restarting with stat
+2026-08-05 20:50:47,155 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:50:47,579 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:50:48,542 - WARNING -  * Debugger is active!
+2026-08-05 20:50:48,543 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:50:48,843 - WARNING -  * Debugger is active!
+2026-08-05 20:50:48,845 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:51:08,278 - INFO - Prediction request completed successfully
+2026-08-05 20:51:08,278 - INFO - 127.0.0.1 - - [05/Aug/2026 20:51:08] "POST /predict HTTP/1.1" 200 -
+2026-08-05 20:53:16,275 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:53:16,609 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:53:16,788 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:53:16,796 - INFO -  * Restarting with stat
+2026-08-05 20:53:17,219 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:53:18,470 - WARNING -  * Debugger is active!
+2026-08-05 20:53:18,472 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:53:18,680 - WARNING -  * Debugger is active!
+2026-08-05 20:53:18,682 - INFO -  * Debugger PIN: 951-415-973
+2026-08-05 20:53:42,217 - INFO - Prediction request completed successfully
+2026-08-05 20:53:42,217 - INFO - 127.0.0.1 - - [05/Aug/2026 20:53:42] "POST /predict HTTP/1.1" 200 -
+2026-08-05 20:54:35,261 - INFO -  * Detected change in 'D:\\nandini\\ML\\Assignments\\ML_EDA_full_fledge\\src\\api_flask.py', reloading
+2026-08-05 20:54:35,794 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260805_204549\random_forest.joblib
+2026-08-05 20:54:37,582 - WARNING -  * Debugger is active!
+2026-08-05 20:54:37,584 - INFO -  * Debugger PIN: 951-415-973
+2026-08-08 13:05:09,096 - INFO - Model training started
+2026-08-08 13:05:10,169 - INFO - Processed datasets loaded successfully
+2026-08-08 13:05:10,171 - INFO - Logistic Regression training started
+2026-08-08 13:05:17,165 - INFO - Logistic Regression training completed
+2026-08-08 13:05:17,193 - INFO - Random Forest training started
+2026-08-08 13:05:20,454 - INFO - Random Forest training completed
+2026-08-08 13:05:20,536 - INFO - XGBoost training started
+2026-08-08 13:05:21,441 - INFO - XGBoost training completed
+2026-08-08 13:05:21,541 - INFO - Models saved successfully at D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260808_130521
+2026-08-08 13:05:21,541 - INFO - Model training completed
+2026-08-08 13:05:34,289 - INFO - Batch prediction started using model: random_forest
+2026-08-08 13:05:34,316 - INFO - Loading model for prediction: random_forest
+2026-08-08 13:05:35,970 - INFO - Batch prediction completed successfully
+2026-08-08 13:05:50,151 - INFO - Generating reports for model version v20260808_130521
+2026-08-08 13:05:50,152 - INFO - Generating evaluation report for logistic_regression
+2026-08-08 13:05:55,629 - INFO - Generating evaluation report for random_forest
+2026-08-08 13:06:05,082 - INFO - Generating evaluation report for xgboost
+2026-08-09 13:40:22,837 - INFO - Model training started
+2026-08-09 13:40:23,908 - INFO - Processed datasets loaded successfully
+2026-08-09 13:40:23,909 - INFO - Logistic Regression training started
+2026-08-09 13:40:30,917 - INFO - Logistic Regression training completed
+2026-08-09 13:40:30,948 - INFO - Random Forest training started
+2026-08-09 13:40:34,363 - INFO - Random Forest training completed
+2026-08-09 13:40:34,445 - INFO - XGBoost training started
+2026-08-09 13:40:35,718 - INFO - XGBoost training completed
+2026-08-09 13:40:35,823 - INFO - Models saved successfully at D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260809_134035
+2026-08-09 13:40:35,823 - INFO - Model training completed
+2026-08-09 13:41:16,045 - INFO - Batch prediction started using model: random_forest
+2026-08-09 13:41:16,078 - INFO - Loading model for prediction: random_forest
+2026-08-09 13:41:18,022 - INFO - Batch prediction completed successfully
+2026-08-09 13:41:30,852 - INFO - Generating reports for model version v20260809_134035
+2026-08-09 13:41:30,853 - INFO - Generating evaluation report for logistic_regression
+2026-08-09 13:41:34,056 - INFO - Generating evaluation report for random_forest
+2026-08-09 13:41:35,943 - INFO - Generating evaluation report for xgboost
+2026-08-09 13:44:04,036 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260809_134035\random_forest.joblib
+2026-08-09 13:44:06,263 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.144:5000
+2026-08-09 13:44:06,263 - INFO - [33mPress CTRL+C to quit[0m
+2026-08-09 13:44:06,266 - INFO -  * Restarting with stat
+2026-08-09 13:44:06,803 - INFO - Loading API model: D:\nandini\ML\Assignments\ML_EDA_full_fledge\models\v20260809_134035\random_forest.joblib
+2026-08-09 13:44:08,699 - WARNING -  * Debugger is active!
+2026-08-09 13:44:08,703 - INFO -  * Debugger PIN: 951-415-973
+2026-08-09 13:45:00,656 - INFO - Prediction request completed successfully
+2026-08-09 13:45:00,657 - INFO - 127.0.0.1 - - [09/Aug/2026 13:45:00] "POST /predict HTTP/1.1" 200 -

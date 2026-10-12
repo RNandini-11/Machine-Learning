@@ -1,0 +1,15 @@
+{
+    "Model": "logistic_regression",
+    "ROC_AUC": 0.8459,
+    "PR_AUC": 0.7731,
+    "Accuracy": 0.8336,
+    "Precision": 0.664,
+    "Recall": 0.6576,
+    "F1_Score": 0.6608,
+    "Confusion_Matrix": {
+        "True_Negative": 19967,
+        "False_Positive": 2439,
+        "False_Negative": 2509,
+        "True_Positive": 4819
+    }
+}

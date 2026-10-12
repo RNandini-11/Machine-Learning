@@ -1,0 +1,15 @@
+{
+    "Model": "xgboost",
+    "ROC_AUC": 0.8895,
+    "PR_AUC": 0.837,
+    "Accuracy": 0.8959,
+    "Precision": 0.9399,
+    "Recall": 0.6169,
+    "F1_Score": 0.7449,
+    "Confusion_Matrix": {
+        "True_Negative": 22117,
+        "False_Positive": 289,
+        "False_Negative": 2807,
+        "True_Positive": 4521
+    }
+}
